@@ -1,5 +1,5 @@
 # 💫 About Me:
-## -🎓 BSc (Hons) Computer Science with Artificial Intelligence<br>- 🏫 Birmingham City University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 💻 Interested in Software Engineering & Backend Development<br>- 🌱 Currently learning<br>  - Python<br>  - FastAPI<br>  - Docker<br>  - Machine Learning<br>  - Cloud Computing<br>- 🎯 Goal: Become an AI Engineer
+## -🎓 BSc (Hons) Computer Science with Artificial Intelligence<br>- 🏫 Birmingham City University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 💻 Interested in Software Engineering & Backend Development<br>- 🌱 3rd Year Student<br>  - Python<br>  - FastAPI<br>  - Docker<br>  - Machine Learning<br>  - Cloud Computing<br>- 🎯 Goal: Become an AI Engineer
 
 
 ## 🌐 Socials:
