@@ -1,11 +1,11 @@
 # 💫 About Me:
 ## -🎓 BSc (Hons) Computer Science with Artificial Intelligence<br>- 🏫 Birmingham City University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 💻 Interested in Software Engineering & Backend Development<br>- 🌱 3rd Year Student<br>  - 🐍 Python<br>  - ⚡ FastAPI<br>  - 🐳 Docker<br>  - 🤖 Machine Learning<br>  - ☁️ Cloud Computing<br>
 
-## 🎯 Career Goal <br>- Become an AI Enginee
+# 🎯 Career Goal <br>- Become an AI Enginee
 ---
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.chex__) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenul__c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thenul-jayarathna-muhandiramge-621b7834b
 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Thenulchami) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@thenulchamikara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamikara0714@gmail.com) 
 
