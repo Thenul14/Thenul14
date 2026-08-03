@@ -17,7 +17,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Thenul14&theme=blue-green&show_icons=true&hide_border=false&include_all_commits=true&cache_seconds=21600)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thenul14&theme=blue-green&hide_border=false)
+![](https://streak-stats.demolab.com?user=Thenul14&theme=blue-green&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenul14&theme=blue-green&layout=compact&hide_border=false&cache_seconds=21600)
 
@@ -26,7 +26,7 @@
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Thenul14&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Thenul14)
 
 ---
 
