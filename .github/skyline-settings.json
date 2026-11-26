@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-purple-skyline.svg",
+  "backgroundColor": "#100b20",
+  "foregroundColor": "#ede9fe",
+  "strongColor": "#c4b5fd",
+  "weakColor": "#a78bfa",
+  "radarColor": "#8b5cf6",
+  "contribColors": [
+    "#29213f",
+    "#55408b",
+    "#7959cc",
+    "#a78bfa",
+    "#ddd6fe"
+  ],
+  "growingAnimation": true
+}
