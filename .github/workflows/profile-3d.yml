@@ -1,0 +1,38 @@
+name: Generate Contribution Skyline
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-skyline
+  cancel-in-progress: false
+
+jobs:
+  skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v5
+      - name: Generate animated 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/skyline-settings.json
+      - name: Commit and push skyline
+        run: |
+          test -s profile-3d-contrib/profile-purple-skyline.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile-3d-contrib/profile-purple-skyline.svg
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+          else
+            git commit -m 'Update contribution skyline'
+            git push
+          fi
