@@ -72,6 +72,12 @@ I enjoy building intelligent, practical software — from machine learning model
   <img width="49%" src="https://streak-stats.demolab.com?user=Thenul14&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+### Contribution Skyline
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-purple-skyline.svg" alt="Animated 3D GitHub contribution calendar" />
+</p>
+
 <p align="center">
   <a href="https://github.com/Thenul14">View my GitHub contributions and repositories</a>
 </p>
