@@ -1,17 +1,17 @@
 {
   "type": "normal",
   "fileName": "profile-purple-skyline.svg",
-  "backgroundColor": "#100b20",
-  "foregroundColor": "#ede9fe",
-  "strongColor": "#c4b5fd",
-  "weakColor": "#a78bfa",
-  "radarColor": "#8b5cf6",
+  "backgroundColor": "#0D1117",
+  "foregroundColor": "#E6EDF3",
+  "strongColor": "#58A6FF",
+  "weakColor": "#8B949E",
+  "radarColor": "#38BDF8",
   "contribColors": [
-    "#29213f",
-    "#55408b",
-    "#7959cc",
-    "#a78bfa",
-    "#ddd6fe"
+    "#172554",
+    "#1D4ED8",
+    "#2563EB",
+    "#38BDF8",
+    "#BAE6FD"
   ],
   "growingAnimation": true
 }
